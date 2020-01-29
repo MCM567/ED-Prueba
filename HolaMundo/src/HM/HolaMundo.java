@@ -3,7 +3,8 @@ package HM;
 public class HolaMundo{
 	public static void main(String[] args){
 		System.out.println("Hola mundo.");
-		System.out.println("Me han dado un pelotazo.");
+		System.out.println("Hola mundo otra vez.");
+		System.out.println("Ya no hay pelotazo.");
 	}
 
 }
